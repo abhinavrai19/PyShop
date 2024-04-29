@@ -1,0 +1,2 @@
+# PyShop
+Learn Django project
